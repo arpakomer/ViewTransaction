@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewTransaction</string>
+    <string name="pictureone">PictureOne</string>
+    <string name="picturetwo">PictureTWo</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>

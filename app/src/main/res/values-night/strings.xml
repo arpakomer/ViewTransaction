@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pictureone">PictureOne</string>
+    <string name="picturetwo">PictureTWo</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
