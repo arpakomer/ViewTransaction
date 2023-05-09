@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         design.webView.settings.javaScriptEnabled = true
 
+        // if you are going to use http please add this to android manifest file -> android:usesCleartextTraffic="true"
         design.webView.loadUrl("https://developer.android.com/")
 
 
@@ -45,5 +46,6 @@ class MainActivity : AppCompatActivity() {
         design.buttonStop.setOnClickListener {
             design.videoView.stopPlayback()
         }
+
     }
 }
